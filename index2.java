@@ -1,6 +1,6 @@
 class MyClass {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        System.out.println("This is index2 class.");
+        System.out.println("This is index2 class.woooooooooooooooooooooooo");
     }
 }
